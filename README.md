@@ -31,3 +31,9 @@ The code is inspired by the excellent videos by Outlier (https://www.youtube.com
 - Nichol, A. Q., & Dhariwal, P. (2021, July). Improved denoising diffusion probabilistic models. In International Conference on Machine Learning (pp. 8162-8171). PMLR.
 - Ho, J., & Salimans, T. (2022). Classifier-free diffusion guidance. arXiv preprint arXiv:2207.12598.- 
 
+## Future perspectives
+I would like to make further improvements and additions. One of the things I would like to do is perform benchmarking on the different diffusion implementations in this repository.
+I also plan to use more intricate datasets and add additional imrpovements on the diffusion technique.
+
+## Comments or issues
+Please let me know if you have any issues or comments. 
